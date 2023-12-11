@@ -1,23 +1,21 @@
 <h1 align="center">Hi 👋, I'm Saksham</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-<img align="right" width="400" src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966" alt="coding">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saksham82&label=Profile%20views&color=0e75b6&style=flat" alt="saksham82" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saksham82" alt="saksham82" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/justamaninaroom" target="blank"><img src="https://img.shields.io/twitter/follow/justamaninaroom?logo=twitter&style=for-the-badge" alt="justamaninaroom" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+<img align="right" width="400" src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966" alt="coding">
 
-- 👨‍💻 All of my projects are available at [https://saksham82.github.io/portfolio-website/](https://saksham82.github.io/portfolio-website/)
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **Web Dev, C++**
 
 - 📫 How to reach me **saksham82878287@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1vllSzdhwkIQ1wF1hOjCbL-HiuBbANbXp/view?usp=sharing](https://drive.google.com/file/d/1vllSzdhwkIQ1wF1hOjCbL-HiuBbANbXp/view?usp=sharing)
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,17 +31,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saksham82&show_icons=true&locale=en" alt="saksham82" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saksham82&" alt="saksham82" /></p>
-<!--
-**Saksham82/Saksham82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
