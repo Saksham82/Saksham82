@@ -1,9 +1,7 @@
-[![MasterHead](https://iconscout.com/lottie-animation/web-development-3754057)](https://saksham82.io)
-
 <h1 align="center">Hi 👋, I'm Saksham</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-<img align="right" width="400" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC" alt="coding">
+<img align="right" width="400" src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966" alt="coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saksham82&label=Profile%20views&color=0e75b6&style=flat" alt="saksham82" /> </p>
 
@@ -35,7 +33,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saksham82&show_icons=true&locale=en" alt="saksham82" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saksham82&" alt="saksham82" /></p>
-
 <!--
 **Saksham82/Saksham82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
