@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Saksham</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-<img align="right" width="300" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fexcited-share-my-second-linkedin-post-coding-community-disha-gupta&psig=AOvVaw14gehtFeeoN85SEMgm9jsz&ust=1706382578204000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCODQidXg-4MDFQAAAAAdAAAAABAE alt = coding">
+<img align="right" width="300" src="![image](https://github.com/Saksham82/Saksham82/assets/96918972/3d6fc6a0-9bce-4781-96bb-2c72527b4bb8)
+ alt = coding">
 
 - 🌱 I’m currently learning **JavaScript**
 
