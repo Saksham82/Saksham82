@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saksham</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-<img align="right" width="300" src="![image](https://github.com/Saksham82/Saksham82/assets/96918972/3d6fc6a0-9bce-4781-96bb-2c72527b4bb8)
- alt = coding">
+<img align="right" width="300" src="https://giffiles.alphacoders.com/171/171294.gif">
 
 - 🌱 I’m currently learning **JavaScript**
 
