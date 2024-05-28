@@ -3,7 +3,7 @@
 
 <img align="right" width="300" src="https://giffiles.alphacoders.com/171/171294.gif">
 
-- 🌱 I’m currently learning **DSA, React, Linux**
+- 🌱 I’m currently learning **JavaScript, React, **
 
 - 💬 Ask me about **Web Dev, DSA, Linux**
 
